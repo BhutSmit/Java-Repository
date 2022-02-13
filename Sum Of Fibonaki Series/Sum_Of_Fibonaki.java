@@ -50,7 +50,7 @@ Fibonaki Series Is Reprent Like This...
 
  	   In For Loop....
 
- 	   fibbo = a + b    =  0 + 1 = 1 
+ 	   fibbo = a + b        =  0 + 1 = 1 
 
  	   a = b     		=  1
 
@@ -62,13 +62,13 @@ Fibonaki Series Is Reprent Like This...
  	 ---> Execute Loop Second Time.
  	 
 
-	     fibbo = a + b    =  1 + 1  = 2
+	     fibbo = a + b        =  1 + 1  = 2
 
- 		 a = b     		  =  1 
+             a = b     		  =  1 
 
  	     b = fibbo		  =  2
 
- 	  	 print(b)
+ 	     print(b)
 
 
 ✔  With The Help Of This Progrm We Can Print Fibonaki Series Very Easily.  
