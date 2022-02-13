@@ -1,0 +1,18 @@
+import java.util.Scanner;                                     // To Use Scanner During Program.
+
+public class userinput{
+
+	public static void main(String[] args){
+
+		int num1,num2;
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.print("Enter Thee First Number: ");
+		num1 = sc.nextInt();
+
+		System.out.print("Enter THe Second Number: ");
+		num2 = sc.nextInt();
+
+	}
+}
