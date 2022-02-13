@@ -58,11 +58,11 @@ Fibonaki Series Is Reprent Like This...
 
 	     fibbo = a + b    =  1 + 1  = 2
 
- 		 a = b     		  =  1 
+ 	     a = b            =  1 
 
- 	     b = fibbo		  =  2
+ 	     b = fibbo	      =  2
 
- 	  	 print(b)
+ 	     print(b)
 
 
 ✔  With The Help Of This Progrm We Can Print Fibonaki Series Very Easily.  
